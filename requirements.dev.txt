@@ -1,0 +1,8 @@
+tqdm
+notebook==7.1.2
+ipywidgets
+jupyter
+requests
+pgcli
+questionary
+pgcli

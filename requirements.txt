@@ -1,0 +1,7 @@
+openai
+scikit-learn
+pandas
+flask
+psycopg2-binary
+python-dotenv
+gunicorn
